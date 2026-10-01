@@ -1,0 +1,20 @@
+# Credenciais e arquivos locais
+.env
+*.env
+
+# Logs
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backups do banco
+*.backup
+*.dump
+
+# Dados/configurações locais do DBeaver
+.metadata/
+*.dbeaver-data-sources.xml
+*.dbeaver-project
