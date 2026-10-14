@@ -1,0 +1,283 @@
+[{
+  "_id": {
+    "$oid": "000000000000000000000065"
+  },
+  "cliente_id": {
+    "$oid": "000000000000000000000001"
+  },
+  "codigo": "RC-001",
+  "criado_em": {
+    "$date": "2026-10-01T00:00:00.000Z"
+  },
+  "destino": {
+    "cidade": "Sao Paulo",
+    "uf": "SP",
+    "rua": "Rua 1",
+    "numero": 10
+  },
+  "itens": [
+    {
+      "sku": "SKU-1",
+      "quantidade": 1,
+      "descricao": "Produto demonstrativo"
+    }
+  ],
+  "status": "em_transito",
+  "temperatura_celsius": 4,
+  "temperatura_controlada": true
+},
+{
+  "_id": {
+    "$oid": "000000000000000000000066"
+  },
+  "cliente_id": {
+    "$oid": "000000000000000000000002"
+  },
+  "codigo": "RC-002",
+  "comprovante": {
+    "recebido_por": "Bruno"
+  },
+  "criado_em": {
+    "$date": "2026-10-02T00:00:00.000Z"
+  },
+  "destino": {
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "rua": "Rua 2",
+    "numero": 11
+  },
+  "itens": [
+    {
+      "sku": "SKU-2",
+      "quantidade": 2,
+      "descricao": "Produto demonstrativo"
+    }
+  ],
+  "status": "entregue"
+},
+{
+  "_id": {
+    "$oid": "000000000000000000000067"
+  },
+  "cliente_id": {
+    "$oid": "000000000000000000000003"
+  },
+  "codigo": "RC-003",
+  "criado_em": {
+    "$date": "2026-10-03T00:00:00.000Z"
+  },
+  "destino": {
+    "cidade": "Sao Paulo",
+    "uf": "SP",
+    "rua": "Rua 3",
+    "numero": 12
+  },
+  "itens": [
+    {
+      "sku": "SKU-3",
+      "quantidade": 3,
+      "descricao": "Produto demonstrativo"
+    }
+  ],
+  "status": "em_transito"
+},
+{
+  "_id": {
+    "$oid": "000000000000000000000068"
+  },
+  "cliente_id": {
+    "$oid": "000000000000000000000004"
+  },
+  "codigo": "RC-004",
+  "comprovante": {
+    "recebido_por": "Diego"
+  },
+  "criado_em": {
+    "$date": "2026-10-04T00:00:00.000Z"
+  },
+  "destino": {
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "rua": "Rua 4",
+    "numero": 13
+  },
+  "itens": [
+    {
+      "sku": "SKU-4",
+      "quantidade": 4,
+      "descricao": "Produto demonstrativo"
+    }
+  ],
+  "status": "entregue",
+  "temperatura_celsius": 4,
+  "temperatura_controlada": true
+},
+{
+  "_id": {
+    "$oid": "000000000000000000000069"
+  },
+  "cliente_id": {
+    "$oid": "000000000000000000000005"
+  },
+  "codigo": "RC-005",
+  "criado_em": {
+    "$date": "2026-10-05T00:00:00.000Z"
+  },
+  "destino": {
+    "cidade": "Sao Paulo",
+    "uf": "SP",
+    "rua": "Rua 5",
+    "numero": 14
+  },
+  "itens": [
+    {
+      "sku": "SKU-5",
+      "quantidade": 5,
+      "descricao": "Produto demonstrativo"
+    }
+  ],
+  "status": "em_transito"
+},
+{
+  "_id": {
+    "$oid": "00000000000000000000006a"
+  },
+  "cliente_id": {
+    "$oid": "000000000000000000000006"
+  },
+  "codigo": "RC-006",
+  "comprovante": {
+    "recebido_por": "Fabio"
+  },
+  "criado_em": {
+    "$date": "2026-10-06T00:00:00.000Z"
+  },
+  "destino": {
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "rua": "Rua 6",
+    "numero": 15
+  },
+  "itens": [
+    {
+      "sku": "SKU-6",
+      "quantidade": 6,
+      "descricao": "Produto demonstrativo"
+    }
+  ],
+  "status": "entregue"
+},
+{
+  "_id": {
+    "$oid": "00000000000000000000006b"
+  },
+  "cliente_id": {
+    "$oid": "000000000000000000000007"
+  },
+  "codigo": "RC-007",
+  "criado_em": {
+    "$date": "2026-10-07T00:00:00.000Z"
+  },
+  "destino": {
+    "cidade": "Sao Paulo",
+    "uf": "SP",
+    "rua": "Rua 7",
+    "numero": 16
+  },
+  "itens": [
+    {
+      "sku": "SKU-7",
+      "quantidade": 7,
+      "descricao": "Produto demonstrativo"
+    }
+  ],
+  "status": "em_transito",
+  "temperatura_celsius": 4,
+  "temperatura_controlada": true
+},
+{
+  "_id": {
+    "$oid": "00000000000000000000006c"
+  },
+  "cliente_id": {
+    "$oid": "000000000000000000000008"
+  },
+  "codigo": "RC-008",
+  "comprovante": {
+    "recebido_por": "Hugo"
+  },
+  "criado_em": {
+    "$date": "2026-10-08T00:00:00.000Z"
+  },
+  "destino": {
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "rua": "Rua 8",
+    "numero": 17
+  },
+  "itens": [
+    {
+      "sku": "SKU-8",
+      "quantidade": 8,
+      "descricao": "Produto demonstrativo"
+    }
+  ],
+  "status": "entregue"
+},
+{
+  "_id": {
+    "$oid": "00000000000000000000006d"
+  },
+  "cliente_id": {
+    "$oid": "000000000000000000000009"
+  },
+  "codigo": "RC-009",
+  "criado_em": {
+    "$date": "2026-10-09T00:00:00.000Z"
+  },
+  "destino": {
+    "cidade": "Sao Paulo",
+    "uf": "SP",
+    "rua": "Rua 9",
+    "numero": 18
+  },
+  "itens": [
+    {
+      "sku": "SKU-9",
+      "quantidade": 9,
+      "descricao": "Produto demonstrativo"
+    }
+  ],
+  "status": "em_transito"
+},
+{
+  "_id": {
+    "$oid": "00000000000000000000006e"
+  },
+  "cliente_id": {
+    "$oid": "00000000000000000000000a"
+  },
+  "codigo": "RC-010",
+  "comprovante": {
+    "recebido_por": "Joao"
+  },
+  "criado_em": {
+    "$date": "2026-10-10T00:00:00.000Z"
+  },
+  "destino": {
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "rua": "Rua 10",
+    "numero": 19
+  },
+  "itens": [
+    {
+      "sku": "SKU-10",
+      "quantidade": 10,
+      "descricao": "Produto demonstrativo"
+    }
+  ],
+  "status": "entregue",
+  "temperatura_celsius": 4,
+  "temperatura_controlada": true
+}]

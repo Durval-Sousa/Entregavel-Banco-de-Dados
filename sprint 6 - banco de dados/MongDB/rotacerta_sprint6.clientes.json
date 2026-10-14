@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "000000000000000000000001"
+  },
+  "email": "cliente1@example.com",
+  "endereco": {
+    "cidade": "Sao Paulo",
+    "uf": "SP"
+  },
+  "nome": "Ana",
+  "preferencias": {
+    "notificacao": "email"
+  },
+  "tipo": "pessoa_fisica"
+},
+{
+  "_id": {
+    "$oid": "000000000000000000000002"
+  },
+  "contato_comercial": {
+    "nome": "Contato 2"
+  },
+  "email": "cliente2@example.com",
+  "endereco": {
+    "cidade": "Curitiba",
+    "uf": "PR"
+  },
+  "nome": "Bruno",
+  "tipo": "pessoa_juridica"
+},
+{
+  "_id": {
+    "$oid": "000000000000000000000003"
+  },
+  "email": "cliente3@example.com",
+  "endereco": {
+    "cidade": "Sao Paulo",
+    "uf": "SP"
+  },
+  "nome": "Carla",
+  "preferencias": {
+    "notificacao": "email"
+  },
+  "tipo": "pessoa_fisica"
+},
+{
+  "_id": {
+    "$oid": "000000000000000000000004"
+  },
+  "contato_comercial": {
+    "nome": "Contato 4"
+  },
+  "email": "cliente4@example.com",
+  "endereco": {
+    "cidade": "Curitiba",
+    "uf": "PR"
+  },
+  "nome": "Diego",
+  "tipo": "pessoa_juridica"
+},
+{
+  "_id": {
+    "$oid": "000000000000000000000005"
+  },
+  "email": "cliente5@example.com",
+  "endereco": {
+    "cidade": "Sao Paulo",
+    "uf": "SP"
+  },
+  "nome": "Elisa",
+  "preferencias": {
+    "notificacao": "email"
+  },
+  "tipo": "pessoa_fisica"
+},
+{
+  "_id": {
+    "$oid": "000000000000000000000006"
+  },
+  "contato_comercial": {
+    "nome": "Contato 6"
+  },
+  "email": "cliente6@example.com",
+  "endereco": {
+    "cidade": "Curitiba",
+    "uf": "PR"
+  },
+  "nome": "Fabio",
+  "tipo": "pessoa_juridica"
+},
+{
+  "_id": {
+    "$oid": "000000000000000000000007"
+  },
+  "email": "cliente7@example.com",
+  "endereco": {
+    "cidade": "Sao Paulo",
+    "uf": "SP"
+  },
+  "nome": "Gabriela",
+  "preferencias": {
+    "notificacao": "email"
+  },
+  "tipo": "pessoa_fisica"
+},
+{
+  "_id": {
+    "$oid": "000000000000000000000008"
+  },
+  "contato_comercial": {
+    "nome": "Contato 8"
+  },
+  "email": "cliente8@example.com",
+  "endereco": {
+    "cidade": "Curitiba",
+    "uf": "PR"
+  },
+  "nome": "Hugo",
+  "tipo": "pessoa_juridica"
+},
+{
+  "_id": {
+    "$oid": "000000000000000000000009"
+  },
+  "email": "cliente9@example.com",
+  "endereco": {
+    "cidade": "Sao Paulo",
+    "uf": "SP"
+  },
+  "nome": "Iara",
+  "preferencias": {
+    "notificacao": "email"
+  },
+  "tipo": "pessoa_fisica"
+},
+{
+  "_id": {
+    "$oid": "00000000000000000000000a"
+  },
+  "contato_comercial": {
+    "nome": "Contato 10"
+  },
+  "email": "cliente10@example.com",
+  "endereco": {
+    "cidade": "Curitiba",
+    "uf": "PR"
+  },
+  "nome": "Joao",
+  "tipo": "pessoa_juridica"
+}]
